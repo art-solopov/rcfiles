@@ -69,7 +69,7 @@ ${color grey}File systems:$color
 /home $color${fs_used /home}/${fs_size /home} ${fs_bar 6 /home}
 $hr
 Networking:
-${color yellow}Wired:
+${color cyan}Wired:
 $color${addr enp5s0}
 Up ${upspeed enp5s0} Down ${downspeed enp5s0}
 ${color cyan}Wireless:
