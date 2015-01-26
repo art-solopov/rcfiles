@@ -10,3 +10,4 @@
     softTabs: false
     invisibles: {}
   linter: {}
+  "autoclose-html": {}
