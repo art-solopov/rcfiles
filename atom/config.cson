@@ -1,0 +1,12 @@
+"*":
+  "exception-reporting":
+    userId: "5161e1d6-02c6-35fe-e804-149142a2331e"
+  welcome:
+    showOnStartup: false
+  core: {}
+  editor:
+    fontFamily: "Droid Sans Mono"
+    showIndentGuide: true
+    softTabs: false
+    invisibles: {}
+  linter: {}
