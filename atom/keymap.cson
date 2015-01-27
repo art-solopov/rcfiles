@@ -1,3 +1,11 @@
 'atom-workspace':
 	'ctrl-alt-p': 'command-palette:toggle'
 	'ctrl-shift-t': 'task-list:toggle'
+
+'atom-workspace atom-text-editor:not([mini])':
+  'ctrl-alt-]': ''
+	'ctrl-alt-[': ''
+
+'body':
+	'ctrl-k ctrl-=': "layout-manager:enlarge-active-pane"
+	'ctrl-k ctrl--': "layout-manager:shrink-active-pane"

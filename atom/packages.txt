@@ -6,8 +6,7 @@ language-rspec@0.2.1
 layout-manager@0.2.3
 linter@0.10.1
 linter-haml@0.1.0
-linter-ruby@0.1.4
-merge-conflicts@1.2.9
+linter-rubocop@0.2.1
 rails-rspec@0.2.0
 ruby-bundler@0.2.0
 symbol-gen@0.1.8
