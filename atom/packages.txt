@@ -1,12 +1,17 @@
 atom-rails@0.4.0
 atomatigit@1.2.3
+autoclose-html@0.14.0
+coffee-compile@0.9.0
 file-icons@1.4.8
+git-control@0.1.8
 language-haml@0.15.0
 language-rspec@0.2.1
 layout-manager@0.2.3
 linter@0.10.1
 linter-haml@0.1.0
 linter-rubocop@0.2.1
+linter-ruby@0.1.4
+markdown-writer@0.10.0
 rails-rspec@0.2.0
 ruby-bundler@0.2.0
 symbol-gen@0.1.8
@@ -14,4 +19,3 @@ symbols-tree-view@0.3.2
 tasks@1.2.4
 term2@0.9.4
 terminal-panel@1.9.2
-
