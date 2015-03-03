@@ -1,5 +1,5 @@
-new -n Server 'bundle exec rails s'
-neww -n Vim vim
+new -n Server 'bundle exec rails s; bash'
+neww -n Vim 'vim; bash'
 neww -n Bash bash
-neww -n Console 'bundle exec rails c'
-neww -n DBConsole 'bundle exec rails db'
+neww -n Console 'bundle exec rails c; bash'
+neww -n DBConsole 'bundle exec rails db; bash'
