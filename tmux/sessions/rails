@@ -1,5 +1,7 @@
-new -n Server 'bundle exec rails s; bash'
-neww -n Vim 'vim; bash'
-neww -n Bash bash
-neww -n Console 'bundle exec rails c; bash'
-neww -n DBConsole 'bundle exec rails db; bash'
+set-option -g remain-on-exit on
+
+neww -kn Server -t 0 'bundle exec rails s'
+neww -n NVim -t 1 'nvim'
+neww -n Shell -t 2 $SHELL
+neww -n Console -t 3 'bundle exec rails c'
+neww -n DBConsole -t 4 'bundle exec rails db'
